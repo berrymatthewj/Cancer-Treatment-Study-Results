@@ -1,7 +1,4 @@
-# Matplotlib
+# Cancer Treatment Results Analysis
 
-This is my assignment for Matplotlib. The requested observations are at the top of the jupyter notebook.
+Observations and analysis are in the jupyter notebook.
 
-Thanks,
-
-Matthew Berry
